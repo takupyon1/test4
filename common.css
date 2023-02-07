@@ -100,7 +100,7 @@ img{
 
 .title{
     height:300px;
-    background-image:url(bg-main.jpg);
+    background-image:url(../images/access/bg-main.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -202,7 +202,7 @@ img{
         display:block;
         width:44px;
         height:34px;
-        background-image:url(icon-menu.png);
+        background-image:url(../images/common/icon-menu.png);
         background-size:50%;
         background-position:center;
         background-repeat:no-repeat;
@@ -232,3 +232,12 @@ img{
         margin-top:50px;
     }
 }
+
+
+
+
+
+
+
+
+
