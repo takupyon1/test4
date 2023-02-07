@@ -195,10 +195,10 @@ img{
         background-color:#736E62;
         padding-top:30px;
         padding-bottom:50px;
-/*         display:none; */
+        display:none;
     }
 
-/*     .toggle-menu-button{
+     .toggle-menu-button{
         display:block;
         width:44px;
         height:34px;
@@ -214,7 +214,7 @@ img{
 
     .header-site-menu.is-show{
         display:block;
-    } */
+    }
 
     .main{
         padding-top:50px;
